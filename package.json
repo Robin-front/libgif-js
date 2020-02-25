@@ -1,0 +1,25 @@
+{
+  "name": "gif-decode",
+  "version": "1.0.0",
+  "description": "JavaScript GIF parser on web and return width,height,ratio,duration,frame length",
+  "main": "./es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robin-front/libgif-js.git"
+  },
+  "keywords": [
+    "gif",
+    "decode",
+    "gif",
+    "parser"
+  ],
+  "author": "robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robin-front/libgif-js/issues"
+  },
+  "homepage": "https://github.com/Robin-front/libgif-js#readme"
+}
